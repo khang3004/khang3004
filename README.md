@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Khang Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Khang Nguyen. I am a 3rd-year student in Data Science & AI at HUTECH University.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khang-nguyen-hoang-92ba63192/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khang3004) 
