@@ -19,3 +19,9 @@ My name is Khang Nguyen. I am a 3rd-year student in Data Science & AI at HUTECH 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khang3004&repo=data_Processing_ECP&theme=gruvbox" />
 </a>
+
+<a href="https://github.com/khang3004/FashionMNIST-MLP-CNN.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khang3004&repo=FashionMNIST-MLP-CNN&theme=dracula" />
+</a>
+
