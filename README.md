@@ -3,7 +3,7 @@ My name is Khang Nguyen. I am a 4th-year student in Data Science & AI.
 
 - 🌱 I’m currently learning **Graph Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anminhhung](https://github.com/khang3004)
+- 👨‍💻 All of my projects are available at [https://github.com/khang3004](KhangDS's Github account)
 
 ## 📫 How to reach me: 
 
