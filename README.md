@@ -15,7 +15,7 @@ My name is Khang Nguyen. I am a 4th-year student in Data Science & AI.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khang3004&repo=Predict-the-possibility-of-heart-disease-by-Stacking&theme=merko" />
 </a>
 
-<a href="https://github.com/khang3004/data_Processing_ECP">
+<a href="[https://github.com/khang3004/data_Processing_ECP](https://github.com/khang3004/Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction.git)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=khang3004&repo=data_Processing_ECP&theme=gruvbox" />
 </a>
