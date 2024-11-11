@@ -2,7 +2,8 @@
 My name is Khang Nguyen. I am a 4th-year student in Data Science & AI.
 ## 📫 How to reach me: 
 
-[![Linkedin](https://banner2.cleanpng.com/20180529/str/avpsm7w6e.webp) LinkedIn](https://www.linkedin.com/in/khang-nguyen-hoang-92ba63192/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khang3004) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/khang-nguyen-hoang-92ba63192/)<img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="20" height="20"> LinkedIn](https://www.linkedin.com/in/khang-nguyen-hoang-92ba63192/)
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khang3004) 
 [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCDaMCgFdUyYMoJd561c3ccw)
 
 <h3 align="left">Languages and Tools:</h3>
