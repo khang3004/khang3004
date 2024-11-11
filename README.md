@@ -78,7 +78,7 @@ My name is Khang Nguyen. I am a 4th-year student in Data Science & AI.
 
 ![khang3004's github stats](https://github-readme-stats.vercel.app/api?username=khang3004&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/khang3004/Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction.git">
+<a href="https://github.com/khang3004/Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=data_Processing_ECP&theme=gruvbox" />
 </a>
 
