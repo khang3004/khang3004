@@ -91,8 +91,8 @@ My name is Khang Nguyen. I am a 4th-year student in Data Science & AI.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction&theme=gruvbox" />
 </a>
 
-<a href="[https://github.com/khang3004/FashionMNIST-MLP-CNN.git](https://github.com/khang3004/FINANCIAL-SENTIMENT-ANALYSIS-onVietnamese-Stock-Market-Headlines/tree/main)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=FashionMNIST-MLP-CNN&theme=dracula" />
+<a href="[https://github.com/khang3004/FINANCIAL-SENTIMENT-ANALYSIS-onVietnamese-Stock-Market-Headlines]">
+  <img align="center" src="https://github.com/khang3004/FINANCIAL-SENTIMENT-ANALYSIS-onVietnamese-Stock-Market-Headlines&theme=dracula" />
 </a>
 
 <a href="https://github.com/khang3004/Predict-the-possibility-of-heart-disease-by-Stacking">
