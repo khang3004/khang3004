@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Khang Nguyen. I am a 4th-year student in Data Science & AI.
+My name is Khang Nguyen. I am pursuing the Master Program in Data Science at Vietnam University - Ho Chi Minh City - University of Science.
 
 - 🌱 I’m currently learning **Graph Neural Networks**
 
