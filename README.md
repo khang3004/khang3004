@@ -9,7 +9,7 @@ My name is Khang Nguyen. I am pursuing the Master Program in Data Science at Vie
 ## 📫 How to reach me: 
 
 <p align="left">
-<a href="https://linkedin.com/in/an minh hung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an minh hung" height="30" width="40" /></a>
+
 </p>
 
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/khang3004) 
