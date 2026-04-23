@@ -1,6 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Khang Nguyen. I am pursuing the Master Program in Data Science at Vietnam University - Ho Chi Minh City - University of Science.
 
+AI Engineer specializing in Agentic workflows (LangGraph, MCP) and scalable ML pipelines. Currently pursuing a Master's in Data Science at HCMUS, focusing on Knowledge Representation and NLP. Proven track record in orchestrating multi-agent systems and deploying production-ready AI solutions via Docker and FastAPI.
+
 - 🌱 I’m currently learning **Graph Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khang3004] 
