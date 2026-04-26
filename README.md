@@ -96,10 +96,10 @@
 
 <p align="center">
   <a href="https://github.com/khang3004/forked_mini_dev_hcmus_underdogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=forked_mini_dev_hcmus_underdogs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HCMUS Underdogs" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=forked_mini_dev_hcmus_underdogs&theme=tokyonight&hide_border=true&bg_color=0D1117"&description_lines_count=2 alt="HCMUS Underdogs" width="48%" />
   </a>
   <a href="https://github.com/khang3004/DataAnalysis_Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=DataAnalysis_Agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Data Analysis Agent" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=DataAnalysis_Agent&theme=tokyonight&hide_border=true&bg_color=0D1117"&description_lines_count=2 alt="Data Analysis Agent" width="48%" />
   </a>
 </p>
 
