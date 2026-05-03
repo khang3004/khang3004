@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Khang Nguyen (KhangDS) 🚀</h1>
 
-<h3 align="center">AI Engineer | Data Scientist | Master's Student at HCMUS | Agentic Workflow Enthusiast</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=AI+Engineer+;Data+Scientist+;Master's+Student+at+HCMUS;Agentic+Workflow+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   I specialize in architecting scalable Machine Learning pipelines and orchestrating multi-agent systems. My current focus is bridging the gap between rigorous academic research (Knowledge Representation & NLP) and production-ready Agentic AI.
@@ -16,6 +20,10 @@
   <a href="https://www.youtube.com/channel/UCDaMCgFdUyYMoJd561c3ccw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khang3004&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Khang's Trophies" />
 </p>
 
 ---
@@ -94,8 +102,13 @@
 ### ![Analytics](image/README/analytics-icon.png) GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khang3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Khang's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khang3004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khang3004&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khang3004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khang3004&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khang3004&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="48%" />
 </p>
 
 ---
@@ -104,24 +117,24 @@
 
 <p align="center">
   <a href="https://github.com/khang3004/forked_mini_dev_hcmus_underdogs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=forked_mini_dev_hcmus_underdogs&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=3" alt="HCMUS Underdogs" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=khang3004&repo=forked_mini_dev_hcmus_underdogs&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=3" alt="HCMUS Underdogs" width="48%" />
   </a>
   <a href="https://github.com/khang3004/DataAnalysis_Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=DataAnalysis_Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=3" alt="Data Analysis Agent" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=khang3004&repo=DataAnalysis_Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=3" alt="Data Analysis Agent" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/khang3004/artist-revenue-management-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=artist-revenue-management-project&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Artist Revenue Management" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=khang3004&repo=artist-revenue-management-project&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Artist Revenue Management" width="48%" />
   </a>
   <a href="https://github.com/khang3004/FINANCIAL-SENTIMENT-ANALYSIS-onVietnamese-Stock-Market-Headlines">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=FINANCIAL-SENTIMENT-ANALYSIS-onVietnamese-Stock-Market-Headlines&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Financial Sentiment Analysis" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=khang3004&repo=FINANCIAL-SENTIMENT-ANALYSIS-onVietnamese-Stock-Market-Headlines&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Financial Sentiment Analysis" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/khang3004/Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khang3004&repo=Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hotel Review Prediction" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=khang3004&repo=Comprehensive-ML-DL-Approaches-for-Hotel-Room-Review-Score-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hotel Review Prediction" width="48%" />
   </a>
 </p>
